@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="fuck-the-word:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fuck_the_word_jar</output-path>
+    <root id="archive" name="fuck-the-word.jar">
+      <element id="module-output" name="fuck-the-word" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lucene-analyzers-common-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lucene-backward-codecs-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lucene-core-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lucene-memory-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lucene-queries-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lucene-queryparser-5.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

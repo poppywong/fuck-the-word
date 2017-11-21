@@ -1,4 +1,3 @@
-
 /**
  * IK 中文分词  版本 5.0
  * IK Analyzer release 5.0

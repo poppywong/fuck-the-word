@@ -57,7 +57,6 @@ public final class IKTokenizer extends Tokenizer {
    * Lucene 4.0 Tokenizer适配器类构造函数
    */
   public IKTokenizer(Reader in, boolean useSmart) {
-    //super(in);
     offsetAtt = addAttribute(OffsetAttribute.class);
     termAtt = addAttribute(CharTermAttribute.class);
     typeAtt = addAttribute(TypeAttribute.class);
